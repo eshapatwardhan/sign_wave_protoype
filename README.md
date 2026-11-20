@@ -29,4 +29,4 @@ https://www.figma.com/proto/recidKHgcPmBS6eTlzz8bf/Sign-Wave-UX-Prototype?node-i
 ![Sign Wave Home Screen](home-page.png)
 
 ### Music Listening Screen
-![Sign Wave Listening Screen](listening-page.png)
+![Sign Wave Listening Screen](music-page.png)
